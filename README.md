@@ -4,7 +4,7 @@ This is a simple Java project to retrieve and print data from the MySQL database
 
 ## Development
 
-1. Download platform independent Connector/J 
+1. Download platform independent [Connector/J](https://dev.mysql.com/downloads/connector/j/)
 2. Unzip the downloaded file
 3. Adding the files to the project libraries 
 
